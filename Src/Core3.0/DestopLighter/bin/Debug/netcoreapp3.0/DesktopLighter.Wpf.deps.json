@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DesktopLighter.Wpf/1.0.0": {
+        "runtime": {
+          "DesktopLighter.Wpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesktopLighter.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

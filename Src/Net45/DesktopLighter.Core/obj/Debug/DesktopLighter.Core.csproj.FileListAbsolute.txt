@@ -1,0 +1,5 @@
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\Net45\DesktopLighter.Core\bin\Debug\DesktopLighter.Core.dll
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\Net45\DesktopLighter.Core\bin\Debug\DesktopLighter.Core.pdb
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\Net45\DesktopLighter.Core\obj\Debug\DesktopLighter.Core.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\Net45\DesktopLighter.Core\obj\Debug\DesktopLighter.Core.dll
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\Net45\DesktopLighter.Core\obj\Debug\DesktopLighter.Core.pdb

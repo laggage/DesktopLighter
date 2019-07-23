@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\DestopLighter.Core\bin\Debug\netcoreapp3.0\DesktopLighter.Core.deps.json
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\DestopLighter.Core\bin\Debug\netcoreapp3.0\DesktopLighter.Core.dll
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\DestopLighter.Core\bin\Debug\netcoreapp3.0\DesktopLighter.Core.pdb
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\DestopLighter.Core\obj\Debug\netcoreapp3.0\DesktopLighter.Core.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\DestopLighter.Core\obj\Debug\netcoreapp3.0\DesktopLighter.Core.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\DestopLighter.Core\obj\Debug\netcoreapp3.0\DesktopLighter.Core.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\DestopLighter.Core\obj\Debug\netcoreapp3.0\DesktopLighter.Core.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\DestopLighter.Core\obj\Debug\netcoreapp3.0\DesktopLighter.Core.dll
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\DestopLighter.Core\obj\Debug\netcoreapp3.0\DesktopLighter.Core.pdb
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\DestopLighter.Core\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+F:\Laggage\CodeRepository\DotNet\WPF\ProjectRepository\DesktopLighter\Src\DestopLighter.Core\obj\Debug\netcoreapp3.0\DesktopLighter.Core.csproj.CopyComplete
